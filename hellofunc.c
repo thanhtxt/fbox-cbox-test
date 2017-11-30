@@ -3,7 +3,7 @@
 
 void myPrintHelloMake(void) {
 
-  printf("Hello makefiles by ThanhTXT!\n");
+  printf("Hello makefiles by ThanhTXT and LinhDao!\n");
 
   return;
 }
